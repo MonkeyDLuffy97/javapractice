@@ -1,0 +1,7 @@
+class multiplication{
+	public static void main(String[] args) {
+		int a=29,b=78;
+		int res=a*b;
+		System.out.print("Multiplication is "+res);
+			}
+}
